@@ -26,4 +26,25 @@ Este repositorio contiene la implementación en Python de tres algoritmos fundam
 - Compara probabilidad empírica vs teórica
 - Realiza simulación extendida con 1000 tiradas
 
+###  `funciones_pertenencia.py`
+**Tema:** Funciones de Pertenencia en Lógica Difusa
+
+**Funcionalidades:**
+- Implementa función de pertenencia **triangular**
+- Implementa función de pertenencia **trapezoidal**
+- Evalúa temperaturas en múltiples conjuntos difusos (Fría, Templada, Cálida, Caliente)
+- Simula decisiones de un sistema de aire acondicionado
+
+##  `defuzificacion_centroide.py`
+**Tema:** Defuzificación por Método del Centroide
+
+**Funcionalidades:**
+- Calcula el centroide usando la fórmula: **C = Σ(μᵢ × xᵢ) / Σ(μᵢ)**
+- Muestra el cálculo paso a paso
+- Implementa ejemplo de control de velocidad de ventilador
+- Analiza múltiples escenarios de defuzificación
+
+## Licencia
+
+Este proyecto es con fines académicos para la asignatura de Inteligencia Artificial.
 
